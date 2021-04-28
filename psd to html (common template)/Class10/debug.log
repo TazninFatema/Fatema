@@ -1,0 +1,181 @@
+[0220/234245.063:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[0220/234248.428:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0220/234323.418:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0221/024654.524:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0221/105338.986:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0221/105342.862:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0221/124917.565:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[0221/124952.926:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0221/124953.513:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0222/194425.764:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0222/202158.707:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0223/193241.563:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0223/195251.396:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0223/195435.903:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0223/195435.908:WARNING:storage_block-inl.h(131)] Failed data load.
+[0223/195436.280:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0223/212206.857:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0224/011120.930:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0225/203722.601:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0225/210025.171:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0225/212330.672:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0226/012446.780:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0226/013711.756:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0226/014929.855:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014934.864:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014939.883:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014944.913:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014949.934:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014954.944:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/014959.953:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015004.988:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015009.998:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015015.024:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015020.034:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015025.053:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015030.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015035.176:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015040.188:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015045.213:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015050.323:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015055.333:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015100.343:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015105.353:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015110.745:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015115.778:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015120.793:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015125.813:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015130.823:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015135.833:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015140.842:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015145.854:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015150.868:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015155.919:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015200.944:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015205.959:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015210.975:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015216.004:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015221.020:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015226.034:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015231.048:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015236.062:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015241.076:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015246.091:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015251.105:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015256.118:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015301.132:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015306.142:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015311.148:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015316.163:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015321.178:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015326.193:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015331.211:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015336.227:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015341.238:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015346.254:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015351.274:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015356.288:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015401.300:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015406.316:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015411.331:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015416.346:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015421.361:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015426.376:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015431.405:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015436.423:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015441.449:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015446.472:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015451.487:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015456.500:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015501.510:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015506.539:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015511.556:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015516.567:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015518.253:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/015518.805:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0226/183650.451:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0226/200645.836:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+                                                                                               [0226/225947.161:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0226/230434.949:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0226/230610.382:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0226/230854.466:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0227/065547.379:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0227/074948.699:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0227/094700.986:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0227/115124.767:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0227/115538.476:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0227/135025.999:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0227/180028.929:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0227/184707.386:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0227/214039.470:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0227/234501.985:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0228/065448.734:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0228/065738.463:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0302/030239.145:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0302/040418.282:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0302/112930.766:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0302/113100.936:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0302/122328.052:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0302/125649.110:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0303/225053.545:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0305/025521.241:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0305/030319.555:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0305/031411.388:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0306/124230.259:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0306/131321.522:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0306/142637.189:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0306/190653.631:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0306/192357.532:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0307/094326.739:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0307/104142.559:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
